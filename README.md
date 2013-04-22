@@ -1,9 +1,6 @@
-timeline
-========
-
-A script to find computing anniversaires from a MySQL database and email the TNMoC mailing list
-
 # Timeline
+A script to find computing anniversaires from a MySQL database and email the TNMoC mailing list.
+
 
 ## Introduction
 
